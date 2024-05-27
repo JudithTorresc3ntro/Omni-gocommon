@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/nyaruka/gocommon/jsonx"
+	"github.com/JudithTorresc3ntro/omni-gocommon/jsonx"
 
 	"github.com/stretchr/testify/assert"
 )

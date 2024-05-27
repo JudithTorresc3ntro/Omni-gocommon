@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nyaruka/gocommon/dates"
+	"github.com/JudithTorresc3ntro/omni-gocommon/dates"
 
 	"github.com/stretchr/testify/assert"
 )

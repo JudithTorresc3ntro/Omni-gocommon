@@ -9,7 +9,7 @@ import (
 	"net/http/httputil"
 	"time"
 
-	"github.com/nyaruka/gocommon/dates"
+	"github.com/JudithTorresc3ntro/omni-gocommon/dates"
 
 	"github.com/go-chi/chi/middleware"
 	"github.com/pkg/errors"

@@ -3,8 +3,8 @@ package dbutil_test
 import (
 	"testing"
 
+	"github.com/JudithTorresc3ntro/omni-gocommon/dbutil"
 	"github.com/lib/pq"
-	"github.com/nyaruka/gocommon/dbutil"
 
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"

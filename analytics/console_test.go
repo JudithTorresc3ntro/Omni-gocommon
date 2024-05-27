@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nyaruka/gocommon/analytics"
+	"github.com/JudithTorresc3ntro/omni-gocommon/analytics"
 	"github.com/stretchr/testify/assert"
 )
 

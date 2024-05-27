@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nyaruka/gocommon/httpx"
+	"github.com/JudithTorresc3ntro/omni-gocommon/httpx"
 
 	"github.com/stretchr/testify/assert"
 )

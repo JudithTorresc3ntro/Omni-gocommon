@@ -4,7 +4,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/nyaruka/gocommon/random"
+	"github.com/JudithTorresc3ntro/omni-gocommon/random"
 
 	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/assert"

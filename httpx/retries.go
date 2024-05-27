@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/nyaruka/gocommon/dates"
-	"github.com/nyaruka/gocommon/random"
+	"github.com/JudithTorresc3ntro/omni-gocommon/dates"
+	"github.com/JudithTorresc3ntro/omni-gocommon/random"
 )
 
 // RetryConfig configures if and how retrying of requests happens

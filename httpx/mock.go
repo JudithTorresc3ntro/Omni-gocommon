@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/nyaruka/gocommon/jsonx"
+	"github.com/JudithTorresc3ntro/omni-gocommon/jsonx"
 
 	"github.com/pkg/errors"
 )

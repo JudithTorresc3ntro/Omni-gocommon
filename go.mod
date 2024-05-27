@@ -1,4 +1,4 @@
-module github.com/nyaruka/gocommon
+module github.com/JudithTorresc3ntro/omni-gocommon
 
 go 1.18
 

@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
+	"github.com/JudithTorresc3ntro/omni-gocommon/dbutil"
+	"github.com/JudithTorresc3ntro/omni-gocommon/dbutil/assertdb"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
-	"github.com/nyaruka/gocommon/dbutil"
-	"github.com/nyaruka/gocommon/dbutil/assertdb"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
+	"github.com/JudithTorresc3ntro/omni-gocommon/dbutil"
 	"github.com/jmoiron/sqlx"
-	"github.com/nyaruka/gocommon/dbutil"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

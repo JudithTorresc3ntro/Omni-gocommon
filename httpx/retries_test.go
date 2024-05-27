@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nyaruka/gocommon/dates"
-	"github.com/nyaruka/gocommon/httpx"
-	"github.com/nyaruka/gocommon/random"
+	"github.com/JudithTorresc3ntro/omni-gocommon/dates"
+	"github.com/JudithTorresc3ntro/omni-gocommon/httpx"
+	"github.com/JudithTorresc3ntro/omni-gocommon/random"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

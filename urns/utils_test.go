@@ -3,7 +3,7 @@ package urns_test
 import (
 	"testing"
 
-	"github.com/nyaruka/gocommon/urns"
+	"github.com/JudithTorresc3ntro/omni-gocommon/urns"
 	"github.com/stretchr/testify/assert"
 )
 

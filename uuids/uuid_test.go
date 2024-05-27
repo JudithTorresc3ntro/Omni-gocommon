@@ -3,7 +3,7 @@ package uuids_test
 import (
 	"testing"
 
-	"github.com/nyaruka/gocommon/uuids"
+	"github.com/JudithTorresc3ntro/omni-gocommon/uuids"
 
 	"github.com/stretchr/testify/assert"
 )

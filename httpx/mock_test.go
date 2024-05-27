@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/nyaruka/gocommon/httpx"
-	"github.com/nyaruka/gocommon/jsonx"
+	"github.com/JudithTorresc3ntro/omni-gocommon/httpx"
+	"github.com/JudithTorresc3ntro/omni-gocommon/jsonx"
 
 	"github.com/stretchr/testify/assert"
 )

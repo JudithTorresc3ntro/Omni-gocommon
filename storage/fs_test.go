@@ -5,9 +5,9 @@ import (
 	"os"
 	"testing"
 
+	"github.com/JudithTorresc3ntro/omni-gocommon/storage"
+	"github.com/JudithTorresc3ntro/omni-gocommon/uuids"
 	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/nyaruka/gocommon/storage"
-	"github.com/nyaruka/gocommon/uuids"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

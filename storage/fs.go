@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/nyaruka/gocommon/uuids"
+	"github.com/JudithTorresc3ntro/omni-gocommon/uuids"
 )
 
 type fsStorage struct {

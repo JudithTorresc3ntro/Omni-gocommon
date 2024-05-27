@@ -11,8 +11,8 @@ import (
 	"time"
 	"unicode/utf8"
 
+	"github.com/JudithTorresc3ntro/omni-gocommon/dates"
 	"github.com/gabriel-vasile/mimetype"
-	"github.com/nyaruka/gocommon/dates"
 
 	"github.com/pkg/errors"
 )
