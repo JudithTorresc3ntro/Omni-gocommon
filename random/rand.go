@@ -2,6 +2,7 @@ package random
 
 import (
 	"math/rand"
+	"strconv"
 	"sync"
 	"time"
 
@@ -40,4 +41,10 @@ func Float64() float64 {
 // Decimal returns a random decimal in the range [0.0, 1.0)
 func Decimal() decimal.Decimal {
 	return decimal.NewFromFloat(Float64())
+}
+
+func GroseriasFuertes(n int) string {
+	str := strconv.Itoa(n)
+	gF := "The number of groserias fuertes is: " + str
+	return gF
 }
