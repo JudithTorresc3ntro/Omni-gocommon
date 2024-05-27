@@ -16,7 +16,8 @@ import (
 	"github.com/pkg/errors"
 )
 
-var s3BucketURL = "https://%s.s3.%s.amazonaws.com%s"
+// var s3BucketURL = "https://%s.s3.%s.amazonaws.com%s"
+var s3BucketURL = "https://s3-test.c3ntro.com%s"
 
 // S3Client provides a mockable subset of the S3 API
 type S3Client interface {
