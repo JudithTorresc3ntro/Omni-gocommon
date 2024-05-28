@@ -190,7 +190,7 @@ func (s *s3Storage) BatchPut(ctx context.Context, us []*Upload) error {
 }
 
 func (s *s3Storage) url(path string) string {
-	var s3BucketURL = "https://s3-test.c3ntro.com:9000%s/%s"
+	var s3BucketURL = "https://s3-test.c3ntro.com:9000/%s%s"
 
 	return fmt.Sprintf(s3BucketURL, s.bucket, path)
 }
